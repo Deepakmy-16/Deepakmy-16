@@ -20,3 +20,9 @@ Hi, I'm Deepak MY<br>I'm currently pursuing my Bachelor's degree in Computer Sci
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeepakMY&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DeepakMY&theme=tokyonight)
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakMY&layout=compact&theme=tokyonight)
+![Metrics](https://metrics.lecoq.io/DeepakMY?template=classic&isocalendar=1&languages=1&followup=1&stars=1&achievements=1&theme=dark)
